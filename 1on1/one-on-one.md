@@ -1,5 +1,5 @@
  # Questions guide to meet new team members.
-
+ 
 This is a guide based on a recopilation of [Lara Hogan Guide](https://larahogan.me/blog/first-one-on-one-questions "Lara Hogan Guide") and [Burutica Guide](https://github.com/buritica/mgt "Burutica Guide").
 
 ## First 1 : 1
